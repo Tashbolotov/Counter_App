@@ -62,7 +62,7 @@ class _CounterPageState extends State<CounterPage> {
         width: double.infinity,
         color: Colors.amber,
         child: const Text(
-          'Fouter',
+          'Flutter',
           style: TextStyle(fontSize: 30),
         ),
       ),

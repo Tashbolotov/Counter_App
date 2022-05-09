@@ -9,7 +9,7 @@ class Sabak1 extends StatefulWidget {
 }
 
 class _Sabak1State extends State<Sabak1> {
-  int _san = 5;
+  int _san = 0;
   void _koboituu() {
     _san++;
     setState(() {});
